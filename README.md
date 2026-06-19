@@ -9,7 +9,7 @@
 - [Workflow Examples](#workflow-examples)
 - [Best Practices](#best-practices)
 
-## 🎯 System Overview
+## System Overview
 
 Crypto pattern detection system is a **comprehensive trading platform** that combines advanced pattern recognition, machine learning, and strategy management to provide actionable trading signals.
 
@@ -406,4 +406,8 @@ The Crypto pattern detection system provides:
 
 This is a **complete trading strategy platform** that adapts to user needs from beginner-friendly templates to advanced custom strategies!
 
-The enhanced system provides **professional-grade pattern detection** with real-time monitoring, advanced technical analysis, and comprehensive risk management - making it suitable for serious trading applications.# crypto_pattern_detector
+The enhanced system provides **professional-grade pattern detection** with real-time monitoring, advanced technical analysis, and comprehensive risk management - making it suitable for serious trading applications.
+
+### Contact
+coinpattern.app
+hello@coinpattern.app or patrick@pythonaidev.com

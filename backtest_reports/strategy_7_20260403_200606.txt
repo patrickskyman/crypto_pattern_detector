@@ -1,0 +1,279 @@
+================================================================================
+BACKTEST REPORT
+============================================================================Configuration:
+  Symbols: USDT, ETHUSDT, BNBUSDT, ADAUSDT, DOGEUSDT, XRPUSDT, DOTUSDT, UNIUSDT, LTCUSDT, LINKUSDT, BCHUSDT, SOLUSDT, AVAXUSDT, XLMUSDT, VETUSDT, TRXUSDT, FILUSDT, ETCUSDT, ALGOUSDT, ATOMUSDT, FTTUSDT, ICPUSDT, EGLDUSDT, AAVEUSDT, XTZUSDT, THETAUSDT, AXSUSDT, MKRUSDT, SUSHIUSDT, RUNEUSDT, ZILUSDT, KSMUSDT, GRTUSDT, COMPUSDT, ENJUSDT, MANAUSDT, BATUSDT, DASHUSDT
+  Period: 2026-03-01 00+00:00 to 2026-04-01 00:00:00+00:00
+  Timeframe: 1h
+  Min Confidence: 0.6
+
+Overall Performance:
+  Total Trades: 127
+  Winning Trades: 60
+  Losing Trades: 67
+  Win Rate: 47.24%
+  Average Return: 0.24%
+  Average Win: 2.00%
+  Average Loss: -1.34%
+  Profit Factor: 1.34
+  Total Return: 30.25%
+  Max Drawdown: -15.08%
+
+Advanced Metrics:
+e Ratio: 1.80
+  Sortino Ratio: 4.49
+  Expectancy: 0.24%
+  Max Consecutive Wins: 16
+  Max Consecutive Losses: 11
+
+Performance by Pattern Type:
+--------------------------------------------------------------------------------
+
+  MORNING_STAR:
+    Trades: 20
+    Win Rate: 65.00%
+    Avg Return: 1.13%
+    Total Return: 22.51%
+
+  ENGULFING_BULL:
+    Trades: 22
+    Win Rate: 54.55%
+    Avg Return: 0.84%
+    Total Return: 18.40%
+
+  DOUBLE_BOTTOM:
+    Trades: 15
+    Win Rate: 53.33%
+    Avg Return: 0.17%
+    Total Return: 2.58%
+
+  CHANNEL_ASCENDING:
+    Trades: 28
+    Win Rate: 50.00%
+    Avg Return: -0.03%
+    Total Return: -0.82%
+
+  FLAG_BULL:
+    Trades: 3
+    Win Rate: 33.33%
+    Avg Return: -0.11%
+    Total Return: -0.32%
+
+  HAMMER:
+    Trades: 3
+    Win Rate: 33.33%
+    Avg Return: -0.07%
+    Total Return: -0.20%
+
+  HARAMI_BULL:
+    Trades: 9
+    Win Rate: 33.33%
+    Avg Return: -0.07%
+    Total Return: -0.61%
+
+  DOJI:
+    Trades: 25
+    Win Rate: 32.00%
+    Avg Return: -0.33%
+    Total Return: -8.35%
+
+  PIERCING:
+    Trades: 1
+    Win Rate: 0.00%
+    Avg Return: -1.35%
+    Total Return: -1.35%
+
+  THREE_WHITE_SOLDIERS:
+    Trades: 1
+    Win Rate: 0.00%
+    Avg Return: -1.59%
+    Total Return: -1.59%
+
+Performance by Symbol:
+--------------------------------------------------------------------------------
+
+  BTCUSDT:
+    Patterns Detected: 19
+    Signals Generated: 19
+    Trades Executed: 19
+
+  ETHUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  BNBUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  ADAUSDT:
+    Patterns Detected: 5
+    Signals Generated: 5
+    Trades Executed: 5
+
+  DOGEUSDT:
+    Patterns Detected: 5
+    Signals Generated: 5
+    Trades Executed: 5
+
+  XRPUSDT:
+    Patterns Detected: 7
+    Signals Generated: 7
+    Trades Executed: 7
+
+  DOTUSDT:
+    Patterns Detected: 3
+    Signals Generated: 3
+    Trades Executed: 3
+
+  UNIUSDT:
+    Patterns Detected: 7
+    Signals Generated: 7
+    Trades Executed: 7
+
+  LTCUSDT:
+    Patterns Detected: 17
+    Signals Generated: 17
+    Trades Executed: 17
+
+  LINKUSDT:
+    Patterns Detected: 10
+    Signals Generated: 10
+    Trades Executed: 10
+
+  BCHUSDT:
+    Patterns Detected: 8
+    Signals Generated: 8
+    Trades Executed: 8
+
+  SOLUSDT:
+    Patterns Detected: 17
+    Signals Generated: 17
+    Trades Executed: 17
+
+  AVAXUSDT:
+    Patterns Detected: 13
+    Signals Generated: 13
+    Trades Executed: 13
+
+  XLMUSDT:
+    Patterns Detected: 6
+    Signals Generated: 6
+    Trades Executed: 6
+
+  VETUSDT:
+    Patterns Detected: 6
+    Signals Generated: 6
+    Trades Executed: 6
+
+  TRXUSDT:
+    Patterns Detected: 2
+    Signals Generated: 2
+    Trades Executed: 2
+
+  FILUSDT:
+    Patterns Detected: 7
+    Signals Generated: 7
+    Trades Executed: 7
+
+  ETCUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  ALGOUSDT:
+    Patterns Detected: 8
+    Signals Generated: 8
+    Trades Executed: 8
+
+  ATOMUSDT:
+    Patterns Detected: 7
+    Signals Generated: 7
+    Trades Executed: 7
+
+  FTTUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  ICPUSDT:
+    Patterns Detected: 4
+    Signals Generated: 4
+    Trades Executed: 4
+
+  EGLDUSDT:
+    Patterns Detected: 8
+    Signals Generated: 8
+    Trades Executed: 8
+
+  AAVEUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  XTZUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  THETAUSDT:
+    Patterns Detected: 11
+    Signals Generated: 11
+    Trades Executed: 11
+
+  AXSUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  SUSHIUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  RUNEUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  ZILUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  KSMUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  GRTUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  COMPUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  ENJUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  MANAUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  BATUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+  DASHUSDT:
+    Patterns Detected: 0
+    Signals Generated: 0
+    Trades Executed: 0
+
+================================================================================
