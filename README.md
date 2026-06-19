@@ -411,3 +411,4 @@ The enhanced system provides **professional-grade pattern detection** with real-
 ### Contact
 coinpattern.app
 hello@coinpattern.app or patrick@pythonaidev.com
+
